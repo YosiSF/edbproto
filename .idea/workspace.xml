@@ -10,10 +10,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="vCMwVvpu" />
   </component>
   <component name="ProjectId" id="1V0qahhAkpVE6rkRQxVaKsXyjAz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576400424327</updated>
       <workItem from="1576400425436" duration="2055000" />
-      <workItem from="1576402726176" duration="219000" />
+      <workItem from="1576402726176" duration="421000" />
     </task>
     <servers />
   </component>
